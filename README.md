@@ -1,5 +1,5 @@
+[![wecar](https://github.com/HRT-D/fsac_resources/blob/main/pictures/wecar.jpg?raw=true)](https://github.com/HRT-D/fsac_resources/blob/main/pictures/wecar.jpg)
 # Formula Student Automotive China Resources
- 
 
 This repository is a hub for sharing resources among all Formula Student Driverless teams and anyone else passionate about developing software and hardware for autonomous driving and racing. We strongly believe that tackling the challenges of driverless racing requires collaboration. By openly sharing our achievements and resources, we aim to catalyze the progress of the entire community. Feel free to join in, submit pull requests, and contribute any datasets, reports, or videos that could benefit the broader community. Your participation is highly encouraged!
 
